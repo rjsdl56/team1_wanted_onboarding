@@ -9,8 +9,7 @@ DB 설명.
 1. company_nps_data.csv: 원티드에듀에서 제공한 원티드 실 db
 2. 파이널.xlsx: 크롤링 db
 
-nbviewer 주소: 
-https://nbviewer.jupyter.org/github/kimsk920825/team1_wanted_onboarding/blob/main/Week1_%EC%9B%90%ED%8B%B0%EB%93%9C_%EA%B3%BC%EC%A0%9C/%5BWeek1%3ATeam1%5D%EC%9B%90%ED%8B%B0%EB%93%9C%EC%8B%A4%EC%A0%84DB%EA%B3%BC%EC%A0%9C.ipynb
+[nbviewer 주소](https://nbviewer.jupyter.org/gist/rjsdl56/5c72a87684354f6b00bcdcef3e2b7acc)
 
 Warning
 1. 코드 시현시 크롤링 코드 주석 처리 할 것. (5월8일 이후 크롤링시 데이터가 바뀌어 에러 가능.)
